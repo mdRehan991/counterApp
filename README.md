@@ -46,8 +46,10 @@ ScreenShots :
 Output : 
 
 <--- Mounting Life Cycle Sequence --->
+
 <img width="524" alt="Screenshot 2021-10-10 at 10 47 33 PM" src="https://user-images.githubusercontent.com/62723964/136707423-aa85c171-873e-46ca-a821-68f49240e373.png">
 
 
 <--- Updating Life Cycle Sequence --->
+
 <img width="524" alt="Screenshot 2021-10-10 at 10 48 07 PM" src="https://user-images.githubusercontent.com/62723964/136707466-e180fe9e-2d40-4744-a0ad-daacbd79d2b3.png">
